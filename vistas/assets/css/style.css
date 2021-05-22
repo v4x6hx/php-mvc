@@ -1,0 +1,16 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 12pt;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgba(0, 128, 128, 0.7);
+}
+
+h1.custom {
+    margin: 0px;
+    padding: 10px 0px 10px 20px;
+}

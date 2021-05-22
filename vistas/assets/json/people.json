@@ -1,0 +1,92 @@
+[
+    {
+        "Nombre":"Mark",
+        "Sexo":"H",
+        "Edad":27,
+        "Estatura":1.71,
+        "Peso":61,
+        "Color de ojos":2,
+        "Color de cabello":1
+    },
+    {
+        "Nombre":"Olivia",
+        "Sexo":"M",
+        "Edad":23,
+        "Estatura":1.62,
+        "Peso":53,
+        "Color de ojos":1,
+        "Color de cabello":2
+    },
+    {
+        "Nombre":"Emma",
+        "Sexo":"M",
+        "Edad":28,
+        "Estatura":1.73,
+        "Peso":69,
+        "Color de ojos":1,
+        "Color de cabello":2
+    },
+    {
+        "Nombre":"Jacob",
+        "Sexo":"H",
+        "Edad":20,
+        "Estatura":1.70,
+        "Peso":70,
+        "Color de ojos":2,
+        "Color de cabello":1
+    },
+    {
+        "Nombre":"Larry",
+        "Sexo":"H",
+        "Edad":24,
+        "Estatura":1.78,
+        "Peso":70,
+        "Color de ojos":2,
+        "Color de cabello":3
+    },
+    {
+        "Nombre":"Charlotte",
+        "Sexo":"M",
+        "Edad":32,
+        "Estatura":1.70,
+        "Peso":54,
+        "Color de ojos":1,
+        "Color de cabello":2
+    },
+    {
+        "Nombre":"John",
+        "Sexo":"H",
+        "Edad":30,
+        "Estatura":1.82,
+        "Peso":84,
+        "Color de ojos":2,
+        "Color de cabello":1
+    },
+    {
+        "Nombre":"Sophia",
+        "Sexo":"M",
+        "Edad":18,
+        "Estatura":1.67,
+        "Peso":50,
+        "Color de ojos":1,
+        "Color de cabello":2
+    },
+    {
+        "Nombre":"Mary",
+        "Sexo":"M",
+        "Edad":19,
+        "Estatura":1.69,
+        "Peso":53,
+        "Color de ojos":1,
+        "Color de cabello":2
+    },
+    {
+        "Nombre":"Gary",
+        "Sexo":"H",
+        "Edad":42,
+        "Estatura":1.92,
+        "Peso":99,
+        "Color de ojos":3,
+        "Color de cabello":3
+    }
+] 
